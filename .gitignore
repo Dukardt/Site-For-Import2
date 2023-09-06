@@ -1,7 +1,9 @@
 tmp/
 
-index.html_old
+*_old
 
-NeuroStartUp.png_backup
+*_backup
 
 .DS_Store
+
+Thumbs.db
